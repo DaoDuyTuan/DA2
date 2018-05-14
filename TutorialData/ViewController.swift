@@ -45,6 +45,7 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
         print("dao duy tuan")
         print("dao duy tuan")
         print("dao duy tuan")
+        print("dao duy tuan")
         
     }
     override func touchesBegan(_ touches: Set<UITouch>, with event: UIEvent?) {
